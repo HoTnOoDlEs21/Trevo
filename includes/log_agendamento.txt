@@ -1,0 +1,11 @@
+2025-07-21 02:06:26 | {"nome":"Jose","email":"jose@mail.pt","terapia":"Psicologia","terapeuta":"1","data":"2025-07-21","hora":"11:00:00"}
+2025-07-21 02:12:10 | {"nome":"Jose","email":"jose@mail.pt","terapia":"Psicologia","terapeuta":"1","data":"2025-07-21","hora":"16:00:00"}
+2025-07-21 02:15:01 | {"nome":"Jose","email":"jose@mail.pt","terapia":"Psicologia","terapeuta":"1","data":"2025-07-21","hora":"16:00:00"}
+2025-07-21 02:15:24 | {"nome":"Maria Manel","email":"maria@mail.pt","terapia":"Psicologia","terapeuta":"1","data":"2025-07-21","hora":"16:00:00"}
+2025-07-21 02:22:56 | {"nome":"Jose","email":"jose@mail.pt","terapia":"Psicologia","terapeuta":"1","data":"2025-07-21","hora":"17:00:00"}
+2025-07-21 02:23:17 | {"nome":"Maria","email":"maria@mail.pt","terapia":"Psicologia","terapeuta":"1","data":"2025-07-21","hora":"17:00:00"}
+2025-07-21 02:27:41 | {"nome":"Jose","email":"jose@mail.pt","terapia":"Psicologia","terapeuta":"1","data":"2025-07-21","hora":"16:00:00"}
+2025-07-21 02:30:55 | {"nome":"Jose","email":"jose@mail.pt","terapia":"Psicologia","terapeuta":"1","data":"2025-07-21","hora":"17:00:00"}
+2025-07-21 02:34:12 | {"nome":"Jose","email":"jose@mail.pt","terapia":"Psicologia","terapeuta":"1","data":"2025-07-21","hora":"11:00:00"}
+2025-07-21 02:35:23 | {"nome":"Maria","email":"maria@mail.pt","terapia":"Psicologia","terapeuta":"1","data":"2025-07-21","hora":"17:00:00"}
+2025-07-21 16:28:59 | {"nome":"Marci","email":"marcia@mail.pt","terapia":"Psicologia","terapeuta":"1","data":"2025-07-21","hora":"09:00:00"}

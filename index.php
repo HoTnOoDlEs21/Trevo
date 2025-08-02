@@ -73,15 +73,15 @@ include_once("templates/header.php");
 
             <div class="equipa-terapeutas">
                 <div class="terapeuta">
-                    <img src="images/equipa/ana.jpg" alt="Ana Pereira — Terapeuta Ocupacional">
+                    <img src="images/equipa/ana.png" alt="Ana Pereira — Terapeuta Ocupacional">
                     <p><strong>Ana Pereira</strong><br>Terapeuta Ocupacional</p>
                 </div>
                 <div class="terapeuta">
-                    <img src="images/equipa/beatriz.jpg" alt="Beatriz Silva — Terapeuta da Fala">
+                    <img src="images/equipa/beatriz.png" alt="Beatriz Silva — Terapeuta da Fala">
                     <p><strong>Beatriz Silva</strong><br>Terapeuta da Fala</p>
                 </div>
                 <div class="terapeuta">
-                    <img src="images/equipa/clara.jpg" alt="Clara Fernandes — Psicóloga Clínica">
+                    <img src="images/equipa/clara.png" alt="Clara Fernandes — Psicóloga Clínica">
                     <p><strong>Clara Fernandes</strong><br>Psicóloga Clínica</p>
                 </div>
             </div>
